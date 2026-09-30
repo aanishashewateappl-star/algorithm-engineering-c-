@@ -1,4 +1,4 @@
-# algorithm-engineering-cplusplus-
+# algorithm-engineering-c-
 It contains concepts learned in algorithm engineering course, coded in C++
 
 ### Union-Find (Disjoint Set Union)
